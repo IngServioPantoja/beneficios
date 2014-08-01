@@ -1,0 +1,42 @@
+
+.btn-cetem
+{
+	background-color: #1e5495;
+}
+.cuerpo
+{
+	margin-top: -15px!important;
+	box-shadow: 6px 0px 5px 5px rgba(150,150,150,0.5);
+	border-radius: 0px 10px 10px 0px;
+	padding-top: 15px;	
+}
+.navbar-brand
+{
+	padding: 0px!important;
+}
+.nav-izquierdo
+{
+	margin-top: -15px!important;
+	box-shadow: -6px 0px 5px 5px rgba(150,150,150,0.5);
+	border-radius: 10px 0px 0px 10px;
+	padding-top: 15px;
+}
+.submenu-cetem
+{
+	border-bottom: solid 5px #94D630!important;
+}
+.verde
+{
+	background-color: #94D630!important;
+
+}
+.txt-blanco
+{
+	color: #fff;
+	text-shadow:0px 0px #aaa;
+	
+}
+#logo
+{
+	height: 50px;
+}
